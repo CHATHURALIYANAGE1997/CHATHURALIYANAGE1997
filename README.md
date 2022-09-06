@@ -1,5 +1,5 @@
 <p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=lkmSasanga&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=CHATHURALIYANAGE1997&color=brightgreen" alt="watching_count" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chathura Liyanage </h1>
 <h3 align="center">Software Developer</h3>
