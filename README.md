@@ -20,9 +20,6 @@
 <a href="https://stackoverflow.com/users/17054068/chathura-liyanage">
     <img  alt="stackOverflow | Chathura" width="100px" height="60px" src="https://github.com/CHATHURALIYANAGE1997/ChathuraLiyanage/blob/main/h9beB.png" />
 </a>&nbsp;
-<!-- <a href="https://www.hackerrank.com/yasirupadmasiri1/">
-    <img  alt="Yasiru | hackerrank" width="42px" src="https://github.com/blob/main/4845006.png" />
-</a> -->
 </p>
 <p align="center">
   <em>
