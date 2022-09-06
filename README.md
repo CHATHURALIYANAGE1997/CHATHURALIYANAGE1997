@@ -69,7 +69,7 @@
   
 ### 💻 Web Development
 <p align="left"> 
-
+&emsp;
   <a href="https://reactjs.org/" target="_blank"> 
    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
   </a>
@@ -106,7 +106,7 @@
   
 ### 💻 Databases & Cloud Hosting
 <p align="left">
-<!--   &emsp; -->
+  &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"></a>
   &emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb"/></a>
