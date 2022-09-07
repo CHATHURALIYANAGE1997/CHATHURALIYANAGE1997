@@ -71,10 +71,6 @@
    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
   </a>
   &emsp; 
-  <!-- <a href="https://angular.io/cli" target="_blank"> 
-   <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular">
-  </a> 
-  &emsp; -->
  
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-%236DD643.svg?style=flat&llogo=github&logoColor=white"/>
@@ -138,15 +134,10 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
 
-<!-- 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiruPadmasiri&show_icons=true&locale=en&layout=compact&theme=radical" alt="yasiruPadmasiri" /></p> -->
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHATHURALIYANAGE1997&theme=radical"/></p>
   <br />
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHATHURALIYANAGE1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-
- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHATHURALIYANAGE1997&theme=radical" alt="CHATHURALIYANAGE1997" /></p>-->
-<!-- https://github-readme-streak-stats.herokuapp.com?user=CHATHURALIYANAGE1997&theme=dark -->
  <br />
  
  
