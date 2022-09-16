@@ -21,7 +21,7 @@
     <img  alt="stackOverflow | Chathura" width="100px" height="60px" src="https://github.com/CHATHURALIYANAGE1997/ChathuraLiyanage/blob/main/h9beB.png" />
 </a>&nbsp;
 <a href="https://www.hackerrank.com/chathurabimalka/"> 
-  <img  alt="hackerrank | hackerrank" width="42px" src="https://github.com/CHATHURALIYANAGE1997/CHATHURALIYANAGE1997/blob/main/download.png" /> 
+  <img  alt="hackerrank | hackerrank" width="42px" src="https://github.com/CHATHURALIYANAGE1997/CHATHURALIYANAGE1997/blob/main/download.jfif" /> 
  </a>&nbsp;
 </p>
 <p align="center">
