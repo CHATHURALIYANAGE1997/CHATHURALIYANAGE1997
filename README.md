@@ -78,10 +78,10 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-%236DD643.svg?style=flat&llogo=github&logoColor=white"/>
   </a>
-  &emsp;
+  <!--&emsp;
   <a href="https://jquery.com/" target="_blank"> 
     <img alt="Jquery" src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery"/>
-  </a>
+  </a>-->
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
