@@ -127,7 +127,7 @@
   &emsp; -->
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Jira-E01563?style=flat-square&logo=Slack&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Jira-E01563?style=flat-square&logo=Jira&logoColor=white"></a>
 <!--   &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"></a> -->
   &emsp;
