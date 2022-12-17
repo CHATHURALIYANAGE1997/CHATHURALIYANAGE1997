@@ -136,7 +136,8 @@
 
  ### 💻 Other
  <p>
-  
+   &emsp;
+    <a href="#"><img alt="Stripe" src=" https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white"></a>
  </p>
  <br/>
 
