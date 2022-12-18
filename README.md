@@ -100,8 +100,13 @@
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=fat&logo=redux&logoColor=white"/>
   </a>
     &emsp;
-   <a href="https://redux.js.org" target="_blank"> 
+   <a href="https://nodejs.org/en/" target="_blank"> 
     <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=fat&logo=nodedotjs&logoColor=white"/>
+  </a>
+  &emsp;
+  
+  <a href="https://jwt.io/" target="_blank"> 
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
   </a>
   </p>
 
