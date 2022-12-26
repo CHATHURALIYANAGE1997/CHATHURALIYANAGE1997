@@ -124,10 +124,13 @@
   <br/>
   
    &emsp;
-  <a href="https://adobe.com" target="_blank"> 
+  <a href="https://" target="_blank"> 
     <img alt="Material" src="https://img.shields.io/badge/Adobe%20XD-470137?style=fat&logo=Adobe%20XD&logoColor=#FF61F6"/>
   </a>
- 
+  &emsp;
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Material" src="https://img.shields.io/badge/Figma-F24E1E?style=fat&logo=figma&logoColor=white"/>
+  </a>
   </p>
 
   </br>
