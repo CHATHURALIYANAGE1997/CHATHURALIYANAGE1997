@@ -127,7 +127,7 @@
   <a href="https://adobe.com" target="_blank"> 
     <img alt="Material" src="https://img.shields.io/badge/Adobe%20XD-470137?style=fat&logo=Adobe%20XD&logoColor=#FF61F6"/>
   </a>
- &emsp;
+ 
   </p>
 
   </br>
