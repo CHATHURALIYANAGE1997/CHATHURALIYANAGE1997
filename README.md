@@ -173,6 +173,8 @@
   &emsp;
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=fat&logo=Postman&logoColor=white"></a>
   &emsp;
+  <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=fat&logo=github&logoColor=white"></a>
+  &emsp;
 </p>
 <br/>
 
