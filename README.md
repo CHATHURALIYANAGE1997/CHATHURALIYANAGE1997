@@ -111,7 +111,7 @@
   &emsp;
   
   <a href="https://jwt.io/" target="_blank"> 
-    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=fat&logo=JSON%20web%20tokens&logoColor=white"/>
   </a>
     &emsp;
     <a href="https://expressjs.com" target="_blank"> 
