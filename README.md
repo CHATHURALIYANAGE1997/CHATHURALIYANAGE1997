@@ -150,7 +150,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql"></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="	https://img.shields.io/badge/MongoDB-4EA94B?style=fat&logo=mongodb&logoColor=white"/></a>
   &emsp;
     <!-- <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp; -->
