@@ -156,7 +156,7 @@
   &emsp; -->
     <!-- <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp; -->
-    <a href="https://aws.amazon.com/"><img alt="Firebase" src ="	https://img.shields.io/badge/Amazon_AWS-FF9900?style=fat&logo=amazonaws&logoColor=white"></a>
+    <a href="https://aws.amazon.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?style=fat&logo=amazonaws&logoColor=white"></a>
  </p> 
  </br>
  
