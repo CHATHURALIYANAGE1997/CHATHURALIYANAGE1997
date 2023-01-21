@@ -190,9 +190,6 @@
   &emsp;
      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=fat&logo=docker&logoColor=white"></a>
   &emsp;
-  
-  
-  	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
  </p>
  <br/>
 
