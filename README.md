@@ -148,10 +148,6 @@
   &emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=fat&logo=mongodb&logoColor=white"/></a>
   &emsp;
-    <!-- <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp; -->
-    <!-- <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp; -->
     <a href="https://aws.amazon.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?style=fat&logo=amazonaws&logoColor=white"></a>
  </p> 
  </br>
