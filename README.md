@@ -172,12 +172,18 @@
 </p>
 <br/>
 
+ ### 💻 virtualization 
+<p>
+  &emsp;
+     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=fat&logo=docker&logoColor=white"></a>
+</p>
+<br/>
  ### 💻 Other
  <p>
    &emsp;
     <a href="#"><img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white"></a>
-  &emsp;
-     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=fat&logo=docker&logoColor=white"></a>
+<!--   &emsp;
+     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=fat&logo=docker&logoColor=white"></a> -->
   &emsp;
  </p>
  <br/>
