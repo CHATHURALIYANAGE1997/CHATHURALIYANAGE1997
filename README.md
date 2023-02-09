@@ -179,6 +179,15 @@
 </p>
 <br/>
 
+### 💻 Automation
+<p>
+  &emsp;
+     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=fat&logo=jenkins&logoColor=white"></a>
+</p>
+<br/>
+
+
+
  ### 💻 Other
  <p>
    &emsp;
