@@ -175,11 +175,7 @@
  ### 💻 virtualization 
 <p>
   &emsp;
-     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=fat&logo=docker&logoColor=white"></a>
-  &emsp;
-     <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=fat&logo=terraform&logoColor=white"></a>
-  
-  
+     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=fat&logo=docker&logoColor=white"></a> 
 </p>
 <br/>
 
@@ -187,6 +183,9 @@
 <p>
   &emsp;
      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=fat&logo=jenkins&logoColor=white"></a>
+   &emsp;
+     <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=fat&logo=terraform&logoColor=white"></a>
+  
 </p>
 <br/>
 
