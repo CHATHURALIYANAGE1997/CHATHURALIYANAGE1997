@@ -134,7 +134,11 @@
    <a href="https://angular.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=fat&logo=angular&logoColor=white"/>
   </a>
-  
+   &emsp;
+    <a href="#" target="_blank"> 
+    <img alt="Angular" src=" https://img.shields.io/badge/Hibernate-59666C?style=fat&logo=Hibernate&logoColor=white"/>
+  </a>
+ 
   
   </p>
 
