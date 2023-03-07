@@ -128,7 +128,6 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img alt="Material" src="https://img.shields.io/badge/Figma-F24E1E?style=fat&logo=figma&logoColor=white"/>
   </a>
-
     &emsp;
    <a href="https://angular.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=fat&logo=angular&logoColor=white"/>
