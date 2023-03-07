@@ -78,10 +78,13 @@
   <a href="https://reactjs.org/" target="_blank"> 
    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
   </a>
-  &emsp; 
- 
+  &emsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-%236DD643.svg?style=flat&llogo=github&logoColor=white"/>
+  </a>
+    &emsp;
+   <a href="https://spring.io/projects/spring-security" target="_blank"> 
+    <img alt="Material" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=fat&logo=Spring-Security&logoColor=white"/>
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -126,10 +129,7 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img alt="Material" src="https://img.shields.io/badge/Figma-F24E1E?style=fat&logo=figma&logoColor=white"/>
   </a>
-  &emsp;
-   <a href="https://spring.io/projects/spring-security" target="_blank"> 
-    <img alt="Material" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=fat&logo=Spring-Security&logoColor=white"/>
-  </a>
+
     &emsp;
    <a href="https://angular.io/" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=fat&logo=angular&logoColor=white"/>
