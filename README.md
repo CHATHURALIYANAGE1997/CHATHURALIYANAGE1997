@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chathura-bimalka-5aa216189/">
-    <img alt="chathura's Linkedin" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
+    <img alt="chathura's Linkedin" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>&nbsp;
 
 
